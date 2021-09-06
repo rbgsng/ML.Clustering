@@ -3,4 +3,4 @@ The report summarizes the Cluster analysis done to the stores of a retail compan
 
 ![cluster analysis](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/Cluster%20Analysis%20(Dataiku)/Cluster%20Analysis.png)
 
-To view the report you can click [this link](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/Cluster%20Analysis%20(Dataiku)/Cluster%20Analysis%20Report.pdf), and to view the presentation you can click [this link](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/Cluster%20Analysis%20(Dataiku)/Cluster%20Analysis%20Presentation.pdf).
+To view the report you can click [this link](https://github.com/rbgsng/ML.Clustering/blob/main/Cluster%20Analysis%20Report.pdf), and to view the presentation you can click [this link](https://github.com/rbgsng/ML.Clustering/blob/main/Cluster%20Analysis%20Presentation.pdf).
